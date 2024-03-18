@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BeenVerified Opt-Out</title>
+</head>
+<body>
+    <h1>BeenVerified Opt-Out</h1>
+    <p>To request the removal of your information, please enter your details below and click "Submit".</p>
+    <form id="optOutForm">
+        <label for="firstName">First Name:</label>
+        <input type="text" id="firstName" name="firstName" devin-id="firstName" required>
+        <label for="lastName">Last Name:</label>
+        <input type="text" id="lastName" name="lastName" devin-id="lastName" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" devin-id="0" required>
+        <label for="state">State:</label>
+        <select id="state" name="state" devin-id="state" required>
+            <option value="MA">Massachusetts</option>
+        </select>
+        <button type="submit" id="submitBtn" devin-id="1">Submit</button>
+    </form>
+    <script>
+        document.getElementById('optOutForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            alert('A verification email will be sent to confirm the opt-out request.');
+        });
+    </script>
+</body>
+</html>

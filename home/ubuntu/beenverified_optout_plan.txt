@@ -1,0 +1,12 @@
+
+BeenVerified Opt-Out Process:
+
+1. Navigate to the BeenVerified opt-out search page.
+2. Enter the first name, last name, and state in the search form to find the individual's record.
+3. Select the record from the search results.
+4. A verification email will be sent to confirm the opt-out request.
+5. Confirm the opt-out request by clicking on the link in the verification email.
+6. An email will be sent to confirm that the record has been opted out.
+7. The record removal will take effect within 24 hours after confirmation.
+8. If multiple records are found, BeenVerified permits the removal of one record through the online process. For additional records, contact must be made with BeenVerified directly via email.
+9. Once opted out, the record will no longer appear in People Search results. However, data may reappear if new records are provided by data partners that cannot be matched to existing records. In such cases, BeenVerified can be contacted to remove the new record as well.

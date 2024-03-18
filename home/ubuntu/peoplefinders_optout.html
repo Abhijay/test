@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PeopleFinders Opt-Out</title>
+</head>
+<body>
+    <h1>PeopleFinders Opt-Out</h1>
+    <p>To initiate the opt-out process, please enter your email address below and click "Next".</p>
+    <form id="optOutForm">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" devin-id="0" required="">
+        <button type="submit" id="nextButton" devin-id="1">Next</button>
+    </form>
+    <script>
+        document.getElementById('optOutForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            alert('Opt-out process initiated. Please follow the subsequent steps.');
+        });
+    </script>
+</body>
+</html>

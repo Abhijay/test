@@ -1,0 +1,5 @@
+Whitepages, (https://www.whitepages.com/name/Angela-Geary/CA), Captcha encountered on Whitepages profile page for Angela Geary, CA.
+Whitepages, (https://www.whitepages.com/suppression-requests), CAPTCHA challenge encountered at Whitepages suppression request form - Ray ID: 866122171864c3c0.
+Spokeo, (URL not provided), reCAPTCHA challenge encountered on Spokeo opt-out form.
+All Area Codes, (https://www.allareacodes.com/remove_name.htm), Captcha Verification Challenge encountered on All Area Codes opt-out page. The page includes a slider puzzle as part of the verification, which requires human interaction to solve.
+Absolute People Search, (https://absolutepeoplesearch.com/optout), Cloudflare challenge encountered on Absolute People Search opt-out page. The script was unable to access the actual opt-out page due to Cloudflare's access restrictions.

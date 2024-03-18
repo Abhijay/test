@@ -1,0 +1,104 @@
+BeenVerified Opt-Out Process:
+
+Navigate to the BeenVerified opt-out search page.
+Enter the first name, last name, and state in the search form to find the individual's record.
+Select the record from the search results.
+A verification email will be sent to confirm the opt-out request.
+Confirm the opt-out request by clicking on the link in the verification email.
+An email will be sent to confirm that the record has been opted out.
+The record removal will take effect within 24 hours after confirmation.
+If multiple records are found, BeenVerified permits the removal of one record through the online process. For additional records, contact must be made with BeenVerified directly via email.
+Once opted out, the record will no longer appear in People Search results. However, data may reappear if new records are provided by data partners that cannot be matched to existing records. In such cases, BeenVerified can be contacted to remove the new record as well.
+
+Tested the BeenVerified scraper script with the simulated opt-out page. The script successfully navigated to the page, filled in the first name as 'Himanshu', the last name as 'Bhatnagar', selected 'Massachusetts' for the state, and simulated a click on the submit button. No actual opt-out request was made during this test.
+
+PeopleFinders Opt-Out Process:
+
+Navigate to the PeopleFinders opt-out page.
+The page presents a "Next" button to initiate the opt-out process.
+The opt-out process is stated to be completely free, with no trials or payment required.
+Detailed steps of the opt-out process are not provided on the initial page and likely follow after clicking the "Next" button.
+It is important to follow the subsequent steps carefully to ensure the removal of public records as requested.
+Tested the PeopleFinders scraper script with the simulated opt-out page. The script successfully navigated to the page, clicked the "Next" button, and handled the alert confirming the initiation of the opt-out process. No actual opt-out request was made during this test.
+
+Instant Checkmate Opt-Out Process:
+
+- Navigate to the local development Instant Checkmate opt-out page at "http://localhost:8000/instantcheckmate_optout.html".
+- Wait for the email input field to be visible and enabled.
+- Fill in the email input field with the placeholder email 'example@example.com'.
+- Wait for the submit button to be visible and enabled.
+- Click on the submit button to simulate the submission action.
+- Note that the actual submission of the form is not performed to prevent triggering the opt-out process.
+- Document any messages or alerts that appear as a result of the simulated form submission.
+
+411 Info Opt-Out Process:
+
+Navigate to the 411 Info manage page at "https://411.info/manage/".
+Wait for the phone number input field to be present in the DOM.
+Fill in the phone number input field with a placeholder value '000-000-0000'.
+Fill in the first name input field with 'Himanshu'.
+Fill in the last name input field with 'Bhatnagar'.
+Update the city/state input field to use the abbreviation 'MA' for Massachusetts.
+Check for the visibility of the submit button but do not click it to prevent form submission.
+Close the browser page after documenting the process.
+
+Acxiom Opt-Out Process:
+
+Navigate to the Acxiom opt-out page at "https://isapps.acxiom.com/optout/optout.aspx".
+Select 'Me' from the 'Who is opting out?' dropdown.
+Select 'Mr.' from the 'Title' dropdown.
+Fill in the 'FirstName' input field with the placeholder value 'John'.
+Fill in the 'MiddleName' input field with the placeholder value 'A'.
+Fill in the 'LastName' input field with the placeholder value 'Doe'.
+Document the presence of the 'Suffix' dropdown, but do not make a selection.
+Note the presence of the 'Submit' button, but do not click it to prevent form submission.
+Document any additional steps or information required by the opt-out process.
+Close the browser page after documenting the process.
+
+Addresses Opt-Out Process:
+
+Attempted to navigate to the Addresses opt-out page at "https://www.intelius.com/opt-out/submit/".
+Encountered a 404 error indicating that the page is not found.
+Refreshed the page to confirm the error persists.
+Unable to document the opt-out process due to the page being inaccessible.
+
+AddressSearch.com Opt-Out Process:
+
+Navigate to the "Remove Your Information From AddressSearch.com" page at "https://www.addresssearch.com/remove-info.php".
+Enter the first and last name in the respective input fields.
+Provide the email address in the email input field.
+Fill in the address line in the address input field.
+Select the appropriate state from the dropdown menu.
+Enter the city and zip code in the respective input fields.
+Read the disclaimer about the removal request and its implications.
+Identify the "Remove Yourself" button, which is used to submit the form.
+Note that the form should be completed in its entirety for the removal to be processed.
+Do not actually submit the form to prevent triggering the removal process.
+
+AdvancedBackgroundChecks.com Opt-Out Process:
+
+Navigate to the "Record Removal Request" page at "https://www.advancedbackgroundchecks.com/removal".
+Enter your email address in the provided field.
+Agree to the terms and conditions by checking the appropriate box.
+Complete the Captcha challenge to verify you are not a robot.
+Click the 'Begin Removal Process' button to initiate the opt-out procedure.
+Perform a search to find the record you want to remove, then click on the "SEE FULL INFO" button.
+On the details page, click on the "Remove my record" button located at the top near the subject's name.
+A confirmation email will be sent to the email address provided. Click the confirmation link in the email to finalize the removal request.
+A record removal confirmation page will be presented, and the record will be removed within 72 hours.
+
+Advanced People Search Opt-Out Process:
+
+Navigate to the "Opt Out" page at "https://www.advanced-people-search.com/static/view/optout/".
+Enter the first name in the 'First Name' input field.
+Enter the last name in the 'Last Name' input field.
+Enter the city in the 'City' input field.
+Select the appropriate state from the 'State' dropdown menu.
+Complete the reCAPTCHA challenge to verify you are not a robot.
+Click the 'Opt out' button to submit the opt-out request.
+Note that the form should be completed in its entirety for the opt-out to be processed.
+Do not actually submit the form to prevent triggering the opt-out process.
+
+AllPeople Opt-Out Process:
+
+As of the current date, AllPeople.com does not provide a direct opt-out link or process within their Privacy Policy. To request the removal of personal data or to inquire about the opt-out process, contact the company directly via the provided email address: webmaster at allpeople.com. The contact page URL is "https://allpeople.com/contact".
